@@ -1,9 +1,9 @@
 
 {
-    "name": "session name",
+    "name": "lite-session",
     "description": "Web Session Generator",
     "logo": "image url",
-    "repository": "https://github.com/username/sesssion name",
+    "repository": "https://github.com/tahiriqbal12/litesesssion",
     "keywords": ["Malvin-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
