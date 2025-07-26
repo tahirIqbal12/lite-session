@@ -124,7 +124,7 @@ router.get('/', async (req, res) => {
 2️⃣ Stay updated with our latest releases and support.
 3️⃣ Enjoy seamless WhatsApp automation! 🤖  
 
-🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vac8SosLY6d7CAFndv3Z) 
+🔗 *Join Our Support Channel:* 👉 [Click Here to Join](https://whatsapp.com/channel/0029Vb6olRh6LwHmOjjCFE3v) 
 
 ⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [TF MD BOT GitHub Repo](https://github.com/tahiriqbal12/)  
 
