@@ -128,7 +128,7 @@ router.get('/', async (req, res) => {
 
 ⭐ *Show Some Love!* Give us a ⭐ on GitHub and support the developer of: 👉 [TF MD BOT GitHub Repo](https://github.com/tahiriqbal12/)  
 
-🚀 _Thanks for choosing BOTNAME — Let the automation begin!_ ✨`;
+🚀 _Thanks for choosing TF BOT MD — Let the automation begin!_ ✨`;
 
                     await Malvin.sendMessage(Malvin.user.id, { text: MALVIN_TEXT }, { quoted: session });
 
